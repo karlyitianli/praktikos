@@ -85,7 +85,7 @@ async function loadUnit(id, opts) {
   const el = $("chapter");
   if (el && !state.unit) el.innerHTML = "<p>Loading…</p>";
   try {
-    const res = await fetch(`data/chapters/${id}.json`);
+    const res = await fetch(`data/chapters/${id}.json`, { cache: "no-cache" });
     const unit = await res.json();
     state.cache[id] = unit;
     state.unit = unit;
@@ -97,7 +97,7 @@ async function loadUnit(id, opts) {
   // Preload the next unit in the background, so the next key press is instant.
   const next = state.units[unitIndex(id) + 1];
   if (next && !state.cache[next.id]) {
-    fetch(`data/chapters/${next.id}.json`)
+    fetch(`data/chapters/${next.id}.json`, { cache: "no-cache" })
       .then((r) => r.json())
       .then((unit) => { state.cache[next.id] = unit; })
       .catch(() => {});
@@ -234,7 +234,7 @@ async function load() {
     if (id && unitExists(id) && id !== state.current) loadUnit(id, { noHash: true });
   });
 
-  const res = await fetch("data/index.json");
+  const res = await fetch("data/index.json", { cache: "no-cache" });
   const data = await res.json();
   state.units = data.units || [];
   const hashId = window.location.hash.replace(/^#/, "");
