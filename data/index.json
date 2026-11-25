@@ -1,0 +1,721 @@
+{
+  "total_chapters": 100,
+  "units": [
+    {
+      "id": "prologue",
+      "kind": "prologue",
+      "label": "Prologue",
+      "section": "Prologue"
+    },
+    {
+      "id": "001",
+      "kind": "chapter",
+      "label": "Chapter 1",
+      "section": "Introduction",
+      "number": 1
+    },
+    {
+      "id": "002",
+      "kind": "chapter",
+      "label": "Chapter 2",
+      "section": "Introduction",
+      "number": 2
+    },
+    {
+      "id": "003",
+      "kind": "chapter",
+      "label": "Chapter 3",
+      "section": "Introduction",
+      "number": 3
+    },
+    {
+      "id": "004",
+      "kind": "chapter",
+      "label": "Chapter 4",
+      "section": "Introduction",
+      "number": 4
+    },
+    {
+      "id": "005",
+      "kind": "chapter",
+      "label": "Chapter 5",
+      "section": "Introduction",
+      "number": 5
+    },
+    {
+      "id": "006",
+      "kind": "chapter",
+      "label": "Chapter 6",
+      "section": "Nature of the Logismoi",
+      "number": 6
+    },
+    {
+      "id": "007",
+      "kind": "chapter",
+      "label": "Chapter 7",
+      "section": "Nature of the Logismoi",
+      "number": 7
+    },
+    {
+      "id": "008",
+      "kind": "chapter",
+      "label": "Chapter 8",
+      "section": "Nature of the Logismoi",
+      "number": 8
+    },
+    {
+      "id": "009",
+      "kind": "chapter",
+      "label": "Chapter 9",
+      "section": "Nature of the Logismoi",
+      "number": 9
+    },
+    {
+      "id": "010",
+      "kind": "chapter",
+      "label": "Chapter 10",
+      "section": "Nature of the Logismoi",
+      "number": 10
+    },
+    {
+      "id": "011",
+      "kind": "chapter",
+      "label": "Chapter 11",
+      "section": "Nature of the Logismoi",
+      "number": 11
+    },
+    {
+      "id": "012",
+      "kind": "chapter",
+      "label": "Chapter 12",
+      "section": "Nature of the Logismoi",
+      "number": 12
+    },
+    {
+      "id": "013",
+      "kind": "chapter",
+      "label": "Chapter 13",
+      "section": "Nature of the Logismoi",
+      "number": 13
+    },
+    {
+      "id": "014",
+      "kind": "chapter",
+      "label": "Chapter 14",
+      "section": "Nature of the Logismoi",
+      "number": 14
+    },
+    {
+      "id": "015",
+      "kind": "chapter",
+      "label": "Chapter 15",
+      "section": "Resisting the Logismoi",
+      "number": 15
+    },
+    {
+      "id": "016",
+      "kind": "chapter",
+      "label": "Chapter 16",
+      "section": "Resisting the Logismoi",
+      "number": 16
+    },
+    {
+      "id": "017",
+      "kind": "chapter",
+      "label": "Chapter 17",
+      "section": "Resisting the Logismoi",
+      "number": 17
+    },
+    {
+      "id": "018",
+      "kind": "chapter",
+      "label": "Chapter 18",
+      "section": "Resisting the Logismoi",
+      "number": 18
+    },
+    {
+      "id": "019",
+      "kind": "chapter",
+      "label": "Chapter 19",
+      "section": "Resisting the Logismoi",
+      "number": 19
+    },
+    {
+      "id": "020",
+      "kind": "chapter",
+      "label": "Chapter 20",
+      "section": "Resisting the Logismoi",
+      "number": 20
+    },
+    {
+      "id": "021",
+      "kind": "chapter",
+      "label": "Chapter 21",
+      "section": "Resisting the Logismoi",
+      "number": 21
+    },
+    {
+      "id": "022",
+      "kind": "chapter",
+      "label": "Chapter 22",
+      "section": "Resisting the Logismoi",
+      "number": 22
+    },
+    {
+      "id": "023",
+      "kind": "chapter",
+      "label": "Chapter 23",
+      "section": "Resisting the Logismoi",
+      "number": 23
+    },
+    {
+      "id": "024",
+      "kind": "chapter",
+      "label": "Chapter 24",
+      "section": "Resisting the Logismoi",
+      "number": 24
+    },
+    {
+      "id": "025",
+      "kind": "chapter",
+      "label": "Chapter 25",
+      "section": "Resisting the Logismoi",
+      "number": 25
+    },
+    {
+      "id": "026",
+      "kind": "chapter",
+      "label": "Chapter 26",
+      "section": "Resisting the Logismoi",
+      "number": 26
+    },
+    {
+      "id": "027",
+      "kind": "chapter",
+      "label": "Chapter 27",
+      "section": "Resisting the Logismoi",
+      "number": 27
+    },
+    {
+      "id": "028",
+      "kind": "chapter",
+      "label": "Chapter 28",
+      "section": "Resisting the Logismoi",
+      "number": 28
+    },
+    {
+      "id": "029",
+      "kind": "chapter",
+      "label": "Chapter 29",
+      "section": "Resisting the Logismoi",
+      "number": 29
+    },
+    {
+      "id": "030",
+      "kind": "chapter",
+      "label": "Chapter 30",
+      "section": "Resisting the Logismoi",
+      "number": 30
+    },
+    {
+      "id": "031",
+      "kind": "chapter",
+      "label": "Chapter 31",
+      "section": "Resisting the Logismoi",
+      "number": 31
+    },
+    {
+      "id": "032",
+      "kind": "chapter",
+      "label": "Chapter 32",
+      "section": "Resisting the Logismoi",
+      "number": 32
+    },
+    {
+      "id": "033",
+      "kind": "chapter",
+      "label": "Chapter 33",
+      "section": "Resisting the Logismoi",
+      "number": 33
+    },
+    {
+      "id": "034",
+      "kind": "chapter",
+      "label": "Chapter 34",
+      "section": "Passions",
+      "number": 34
+    },
+    {
+      "id": "035",
+      "kind": "chapter",
+      "label": "Chapter 35",
+      "section": "Passions",
+      "number": 35
+    },
+    {
+      "id": "036",
+      "kind": "chapter",
+      "label": "Chapter 36",
+      "section": "Passions",
+      "number": 36
+    },
+    {
+      "id": "037",
+      "kind": "chapter",
+      "label": "Chapter 37",
+      "section": "Passions",
+      "number": 37
+    },
+    {
+      "id": "038",
+      "kind": "chapter",
+      "label": "Chapter 38",
+      "section": "Passions",
+      "number": 38
+    },
+    {
+      "id": "039",
+      "kind": "chapter",
+      "label": "Chapter 39",
+      "section": "Passions",
+      "number": 39
+    },
+    {
+      "id": "040",
+      "kind": "chapter",
+      "label": "Chapter 40",
+      "section": "Instructions",
+      "number": 40
+    },
+    {
+      "id": "041",
+      "kind": "chapter",
+      "label": "Chapter 41",
+      "section": "Instructions",
+      "number": 41
+    },
+    {
+      "id": "042",
+      "kind": "chapter",
+      "label": "Chapter 42",
+      "section": "Instructions",
+      "number": 42
+    },
+    {
+      "id": "043",
+      "kind": "chapter",
+      "label": "Chapter 43",
+      "section": "Instructions",
+      "number": 43
+    },
+    {
+      "id": "044",
+      "kind": "chapter",
+      "label": "Chapter 44",
+      "section": "Instructions",
+      "number": 44
+    },
+    {
+      "id": "045",
+      "kind": "chapter",
+      "label": "Chapter 45",
+      "section": "Instructions",
+      "number": 45
+    },
+    {
+      "id": "046",
+      "kind": "chapter",
+      "label": "Chapter 46",
+      "section": "Instructions",
+      "number": 46
+    },
+    {
+      "id": "047",
+      "kind": "chapter",
+      "label": "Chapter 47",
+      "section": "Instructions",
+      "number": 47
+    },
+    {
+      "id": "048",
+      "kind": "chapter",
+      "label": "Chapter 48",
+      "section": "Instructions",
+      "number": 48
+    },
+    {
+      "id": "049",
+      "kind": "chapter",
+      "label": "Chapter 49",
+      "section": "Instructions",
+      "number": 49
+    },
+    {
+      "id": "050",
+      "kind": "chapter",
+      "label": "Chapter 50",
+      "section": "Instructions",
+      "number": 50
+    },
+    {
+      "id": "051",
+      "kind": "chapter",
+      "label": "Chapter 51",
+      "section": "Instructions",
+      "number": 51
+    },
+    {
+      "id": "052",
+      "kind": "chapter",
+      "label": "Chapter 52",
+      "section": "Instructions",
+      "number": 52
+    },
+    {
+      "id": "053",
+      "kind": "chapter",
+      "label": "Chapter 53",
+      "section": "Instructions",
+      "number": 53
+    },
+    {
+      "id": "054",
+      "kind": "chapter",
+      "label": "Chapter 54",
+      "section": "During Sleep",
+      "number": 54
+    },
+    {
+      "id": "055",
+      "kind": "chapter",
+      "label": "Chapter 55",
+      "section": "During Sleep",
+      "number": 55
+    },
+    {
+      "id": "056",
+      "kind": "chapter",
+      "label": "Chapter 56",
+      "section": "During Sleep",
+      "number": 56
+    },
+    {
+      "id": "057",
+      "kind": "chapter",
+      "label": "Chapter 57",
+      "section": "Near Apatheia",
+      "number": 57
+    },
+    {
+      "id": "058",
+      "kind": "chapter",
+      "label": "Chapter 58",
+      "section": "Near Apatheia",
+      "number": 58
+    },
+    {
+      "id": "059",
+      "kind": "chapter",
+      "label": "Chapter 59",
+      "section": "Near Apatheia",
+      "number": 59
+    },
+    {
+      "id": "060",
+      "kind": "chapter",
+      "label": "Chapter 60",
+      "section": "Near Apatheia",
+      "number": 60
+    },
+    {
+      "id": "061",
+      "kind": "chapter",
+      "label": "Chapter 61",
+      "section": "Near Apatheia",
+      "number": 61
+    },
+    {
+      "id": "062",
+      "kind": "chapter",
+      "label": "Chapter 62",
+      "section": "Near Apatheia",
+      "number": 62
+    },
+    {
+      "id": "063",
+      "kind": "chapter",
+      "label": "Chapter 63",
+      "section": "Signs of Apatheia",
+      "number": 63
+    },
+    {
+      "id": "064",
+      "kind": "chapter",
+      "label": "Chapter 64",
+      "section": "Signs of Apatheia",
+      "number": 64
+    },
+    {
+      "id": "065",
+      "kind": "chapter",
+      "label": "Chapter 65",
+      "section": "Signs of Apatheia",
+      "number": 65
+    },
+    {
+      "id": "066",
+      "kind": "chapter",
+      "label": "Chapter 66",
+      "section": "Signs of Apatheia",
+      "number": 66
+    },
+    {
+      "id": "067",
+      "kind": "chapter",
+      "label": "Chapter 67",
+      "section": "Signs of Apatheia",
+      "number": 67
+    },
+    {
+      "id": "068",
+      "kind": "chapter",
+      "label": "Chapter 68",
+      "section": "Signs of Apatheia",
+      "number": 68
+    },
+    {
+      "id": "069",
+      "kind": "chapter",
+      "label": "Chapter 69",
+      "section": "Signs of Apatheia",
+      "number": 69
+    },
+    {
+      "id": "070",
+      "kind": "chapter",
+      "label": "Chapter 70",
+      "section": "Signs of Apatheia",
+      "number": 70
+    },
+    {
+      "id": "071",
+      "kind": "chapter",
+      "label": "Chapter 71",
+      "section": "Signs of Apatheia",
+      "number": 71
+    },
+    {
+      "id": "072",
+      "kind": "chapter",
+      "label": "Chapter 72",
+      "section": "Signs of Apatheia",
+      "number": 72
+    },
+    {
+      "id": "073",
+      "kind": "chapter",
+      "label": "Chapter 73",
+      "section": "Signs of Apatheia",
+      "number": 73
+    },
+    {
+      "id": "074",
+      "kind": "chapter",
+      "label": "Chapter 74",
+      "section": "Signs of Apatheia",
+      "number": 74
+    },
+    {
+      "id": "075",
+      "kind": "chapter",
+      "label": "Chapter 75",
+      "section": "Signs of Apatheia",
+      "number": 75
+    },
+    {
+      "id": "076",
+      "kind": "chapter",
+      "label": "Chapter 76",
+      "section": "Signs of Apatheia",
+      "number": 76
+    },
+    {
+      "id": "077",
+      "kind": "chapter",
+      "label": "Chapter 77",
+      "section": "Signs of Apatheia",
+      "number": 77
+    },
+    {
+      "id": "078",
+      "kind": "chapter",
+      "label": "Chapter 78",
+      "section": "Signs of Apatheia",
+      "number": 78
+    },
+    {
+      "id": "079",
+      "kind": "chapter",
+      "label": "Chapter 79",
+      "section": "Signs of Apatheia",
+      "number": 79
+    },
+    {
+      "id": "080",
+      "kind": "chapter",
+      "label": "Chapter 80",
+      "section": "Signs of Apatheia",
+      "number": 80
+    },
+    {
+      "id": "081",
+      "kind": "chapter",
+      "label": "Chapter 81",
+      "section": "Signs of Apatheia",
+      "number": 81
+    },
+    {
+      "id": "082",
+      "kind": "chapter",
+      "label": "Chapter 82",
+      "section": "Signs of Apatheia",
+      "number": 82
+    },
+    {
+      "id": "083",
+      "kind": "chapter",
+      "label": "Chapter 83",
+      "section": "Signs of Apatheia",
+      "number": 83
+    },
+    {
+      "id": "084",
+      "kind": "chapter",
+      "label": "Chapter 84",
+      "section": "Signs of Apatheia",
+      "number": 84
+    },
+    {
+      "id": "085",
+      "kind": "chapter",
+      "label": "Chapter 85",
+      "section": "Signs of Apatheia",
+      "number": 85
+    },
+    {
+      "id": "086",
+      "kind": "chapter",
+      "label": "Chapter 86",
+      "section": "Signs of Apatheia",
+      "number": 86
+    },
+    {
+      "id": "087",
+      "kind": "chapter",
+      "label": "Chapter 87",
+      "section": "Signs of Apatheia",
+      "number": 87
+    },
+    {
+      "id": "088",
+      "kind": "chapter",
+      "label": "Chapter 88",
+      "section": "Signs of Apatheia",
+      "number": 88
+    },
+    {
+      "id": "089",
+      "kind": "chapter",
+      "label": "Chapter 89",
+      "section": "Signs of Apatheia",
+      "number": 89
+    },
+    {
+      "id": "090",
+      "kind": "chapter",
+      "label": "Chapter 90",
+      "section": "Signs of Apatheia",
+      "number": 90
+    },
+    {
+      "id": "091",
+      "kind": "chapter",
+      "label": "Chapter 91",
+      "section": "Apophthegmata",
+      "number": 91
+    },
+    {
+      "id": "092",
+      "kind": "chapter",
+      "label": "Chapter 92",
+      "section": "Apophthegmata",
+      "number": 92
+    },
+    {
+      "id": "093",
+      "kind": "chapter",
+      "label": "Chapter 93",
+      "section": "Apophthegmata",
+      "number": 93
+    },
+    {
+      "id": "094",
+      "kind": "chapter",
+      "label": "Chapter 94",
+      "section": "Apophthegmata",
+      "number": 94
+    },
+    {
+      "id": "095",
+      "kind": "chapter",
+      "label": "Chapter 95",
+      "section": "Apophthegmata",
+      "number": 95
+    },
+    {
+      "id": "096",
+      "kind": "chapter",
+      "label": "Chapter 96",
+      "section": "Apophthegmata",
+      "number": 96
+    },
+    {
+      "id": "097",
+      "kind": "chapter",
+      "label": "Chapter 97",
+      "section": "Apophthegmata",
+      "number": 97
+    },
+    {
+      "id": "098",
+      "kind": "chapter",
+      "label": "Chapter 98",
+      "section": "Apophthegmata",
+      "number": 98
+    },
+    {
+      "id": "099",
+      "kind": "chapter",
+      "label": "Chapter 99",
+      "section": "Apophthegmata",
+      "number": 99
+    },
+    {
+      "id": "100",
+      "kind": "chapter",
+      "label": "Chapter 100",
+      "section": "Apophthegmata",
+      "number": 100
+    },
+    {
+      "id": "epilogue",
+      "kind": "epilogue",
+      "label": "Epilogue",
+      "section": "Epilogue"
+    }
+  ],
+  "sources": {
+    "english": "Luke Dysinger, O.S.B., translation in the public domain. From https://www.ldysinger.com/Evagrius/01_Prak/01_Praktikos.htm . Greek text based on Sources Chretiennes No. 171 and PG 40; Greek is not included in this app.",
+    "note": "Cross-reference notes from the source site were removed; only the translated text is shown."
+  }
+}
